@@ -1,2 +1,2 @@
-# GeekHunter
-GeekHunter template for C#
+# DIO
+Digital Innovation One template for C#
